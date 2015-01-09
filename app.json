@@ -4,7 +4,7 @@
   "repository": "https://github.com/bcoyle73/twilio-sms-forward.git",
   "keywords": ["twilio", "sms", "messages"],
 	"env": {
-	  "SECRET_TOKEN": {
+	  "AUTH_TOKEN": {
 	    "description": "Your Twilio Secret Auth Token",
 	    "required": "true"
 	  }
