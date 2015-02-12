@@ -9,3 +9,4 @@ This is app allows you to forward SMS messages using just URL parameters just as
 ## Setup with Heroku
 1. Click the button
 2. Put in your Twilio AUTH Token
+3. In Twilio on your numbers page update the SMS URL to be [your heroku url]/message/forward/?2025551212
