@@ -1,7 +1,7 @@
 {
   "name": "Twilio SMS Forwarding",
   "description": "A simple app to forward Twilio SMS messages",
-  "repository": "https://github.com/bcoyle73/twilio-sms-forward.git",
+  "repository": "https://github.com/bcoyle73/twilio-sms-forward",
   "keywords": ["twilio", "sms", "messages"],
 	"env": {
 	  "AUTH_TOKEN": {
