@@ -3,7 +3,7 @@ GEM
   specs:
     builder (3.2.2)
     daemons (1.1.9)
-    eventmachine (1.0.3)
+    eventmachine (1.0.4)
     jwt (1.0.0)
     multi_json (1.10.1)
     rack (1.5.2)
